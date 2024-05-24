@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "unprint"
-version = "0.0.8"
+version = "0.0.9"
 authors = [
   { name="Liu Zuo Lin", email="zlliu246@gmail.com" },
 ]
@@ -17,3 +17,6 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+[project.urls]
+Homepage = "https://github.com/zlliu246/unprint"
+Issues = "https://github.com/zlliu246/unprint/issues"
